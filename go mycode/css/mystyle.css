@@ -1,0 +1,36 @@
+h1 {
+    
+    color: skyblue;
+    margin-top: 100px;
+    margin-left: 25px;
+    height: 100%;
+    width: 100%; 
+}
+.cover{
+    background-image: url("https://www.whats-on-netflix.com/wp-content/uploads/2019/01/netflix-series-2019-roster.png");
+    height: 650px;
+
+}
+
+h2 {
+    margin-left: 100px; 
+}
+
+div:hover {
+    border: 10px;
+    border-color: black;
+        }
+
+.c1 {
+    display: inline-block;
+    
+}
+
+.c2 {
+    background-color: tan;
+}
+
+.c3 {
+    color:white;
+    background-color: black;
+}
